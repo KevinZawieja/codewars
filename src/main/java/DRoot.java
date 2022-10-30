@@ -164,6 +164,7 @@ public class DRoot {
         //Arrays.sort("abcdefghijklmnopqrstuvwxyz".repeat(10_000000).toCharArray(), (a,b) -> a < b );
         //Arrays.sort("abcdefghijklmnopqrstuvwxyz".repeat(10_000000).toCharArray(), (a, b) -> a.equals('x'));
         Scramblies.scramble("scriptjavx","javasciprt");
+        //hi
 
     }
 
